@@ -10,3 +10,22 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.counterbg {
+    height: 115px !important;
+}
+.digit {
+    background-color: #080808;
+    border-color: #2a2a2a !important;
+}
+.digitNumber {
+    font-size: 50px;
+    color: white;
+}
+.col-1 {
+    width: 57px;
+    height: 80px;
+    margin-right: 10px;
+}
+.container-fluid {
+    background-color: #080808;
+}
